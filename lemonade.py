@@ -161,7 +161,7 @@ if assets > 0:
 	print('Your business growth rate: {percent}% per day.'.format(percent = int(100 * ((assets / initial_assets) ** (1 / days) - 1))))
 print('Your business rating:', end = ' ')
 if assets < 50:
-	print('F is for fantastic')
+	print('F is for fantastic!')
 elif assets < 150:
 	print('Disappointing')
 elif assets < 250:
