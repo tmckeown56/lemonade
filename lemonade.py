@@ -95,6 +95,7 @@ def street_work_multiplier(street_work):
 	return exp(exponent)
 
 print('')
+print('before you begin you should thank Brady Garvin for doing all the hard work.)
 print('lemonade.py: A Ten-Day Lemonade Stand Simulation')
 print('(loosely based on the 1979 game "Lemonade Stand" by the Minnesota Educational Computing Consortium)')
 print('')
