@@ -174,3 +174,4 @@ elif assets < 500:
 else:
 	print('Incredible!')
 print('')
+print('Thank you for teaching this wonderful class. I have enjoyed every minute of it')
